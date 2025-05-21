@@ -1,0 +1,17 @@
+# Pong Game 🎮
+
+A simple implementation of the classic Pong game using Python and the Turtle graphics module.
+
+## Features 🚀
+- Two-player paddle control (W/S and Up/Down keys)
+- Ball with collision and speed increase
+- Scoreboard with win condition
+- Game pause/resume with spacebar
+- Countdown before game starts
+- Reset after score
+
+## How to Run 🖥
+1. Make sure you have Python installed (Python 3.6+ recommended).
+2. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/your-repo-name.git

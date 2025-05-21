@@ -14,4 +14,13 @@ A simple implementation of the classic Pong game using Python and the Turtle gra
 1. Make sure you have Python installed (Python 3.6+ recommended).
 2. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/your-username/AroTech23.git
+##Screenshots
+![Pong Game Screenshot](screenshot.png)
+## Built With 🛠
+- Python
+- Turtle graphics module
+
+## Author
+- Ngong Arnold [LinkedIn](https://www.linkedin.com/in/python-development-64a413337/)
+
